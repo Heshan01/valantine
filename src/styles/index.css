@@ -1,0 +1,48 @@
+:root {
+  /* Premium Romantic Palette */
+  --color-pink-primary: #ff4f9a;
+  /* Hot pink */
+  --color-pink-deep: #d6005b;
+  /* Deeper pink for gradients */
+  --color-pink-light: #ff85b3;
+  --color-pink-soft: #ffd6e7;
+  --color-bg-start: #ffe0ef;
+  --color-bg-end: #fff0f7;
+  --color-white: #ffffff;
+  --color-text-dark: #631d36;
+  /* Softer dark text */
+
+  --font-main: 'Segoe UI', system-ui, -apple-system, sans-serif;
+
+  /* Luxury Shadows */
+  --shadow-soft: 0 10px 40px -5px rgba(255, 79, 154, 0.3), 0 8px 16px -6px rgba(255, 79, 154, 0.2);
+  --shadow-glow: 0 0 30px rgba(255, 79, 154, 0.4);
+
+  /* Glassmorphism */
+  --glass-bg: rgba(255, 255, 255, 0.65);
+  --glass-border: rgba(255, 255, 255, 0.8);
+}
+
+body {
+  font-family: var(--font-main);
+  /* Rich layered gradient background */
+  background: radial-gradient(circle at 50% 50%, #fff0f5 0%, #ffdde9 100%);
+  color: var(--color-text-dark);
+  min-height: 100vh;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+}
+
+button {
+  font-family: inherit;
+  cursor: pointer;
+  border: none;
+  outline: none;
+  -webkit-tap-highlight-color: transparent;
+}
+
+#root {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
