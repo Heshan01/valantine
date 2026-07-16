@@ -83,13 +83,12 @@ const LovePage = () => {
                     margin: '0 auto',
                     maxWidth: '100%'
                 }}>
-                    මල්මි,{"\n"}
-                    හූ හූ.... කෝමහරි ඔයාට ඔව් කියන්න උනානී.. 😌
-                    දැන් ඉතින් contract එක sign කරලා ඉවරයි, cancel button එක disabled 😜❤️
-                    {"\n"}අයි ලයි යූ ආසිම්බලා...{"\n"}
+                    Dear <name></name>,{"\n"}
+                    type any msg here.
+                    {"\n"}.............{"\n"}
                     Happy Valentine’s Day ❤️{"\n"}{"\n"}
                     <span style={{ fontSize: '0.8rem', opacity: 0.8, fontWeight: 400 }}>
-                        යාලු උන අවුරුදු 3ටම මන් Happy Valentine කිව්ව පලවෙනිපාරනි. මේවිදිහට හොදයිනි... hee heeeeeeeeeeee😁😁
+                        ..................... මේවිදිහට හොදයිනි... hee heeeeeeeeeeee😁😁
                     </span>{"\n"}
                     <span style={{ color: '#ff4f9a', display: 'block', marginTop: '8px' }}>
 
