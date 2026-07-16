@@ -88,7 +88,7 @@ const LovePage = () => {
                     {"\n"}.............{"\n"}
                     Happy Valentine’s Day ❤️{"\n"}{"\n"}
                     <span style={{ fontSize: '0.8rem', opacity: 0.8, fontWeight: 400 }}>
-                        ..................... මේවිදිහට හොදයිනි... hee heeeeeeeeeeee😁😁
+                        .....................  hee heeeeeeeeeeee😁😁
                     </span>{"\n"}
                     <span style={{ color: '#ff4f9a', display: 'block', marginTop: '8px' }}>
 
